@@ -18,7 +18,11 @@
     <page background="noite.png">
     <agent text="Passa noites e noites, mas a formiga continuava trablhando, enquanto a cigarra fica curtindo."  x="20" y="400" font-size="12"/>
     <agent img="formiga.png" x="10" y="60" width="100" height="200"/> 
-      
+     <agent img="chão noite.png" x="0" y="0" width="100" height="100"/>   
+     <agent img="chãomeio.png" x="100" y="0" width="100" height="100"/>
+     <agent img="chãomeio.png" x="200" y="0" width="100" height="100"/>  
+     <agent img="chaome.png" x="300" y="0" width="100" height="100"/>  
+     <agent img="chão2.png".png" x="400" y="0" width="100" height="100"/>  
           
          
 
