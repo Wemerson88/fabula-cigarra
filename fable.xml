@@ -4,7 +4,7 @@
         <agent text="Era uma vez uma formiga, que passava o dia e a noite recplhendo alimentos e fazendo sua casa, preparando-se para o inverno." 
             x="30" y="40"
 
-     <agent img="formiga.png"       
+     <agent img="formiga.png" x="0" y="0" width="100" height="100" 
             
   
     
