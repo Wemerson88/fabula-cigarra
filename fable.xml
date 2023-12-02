@@ -3,7 +3,9 @@
     <agent 
         text="SEJA BEM VINDO A HISTORIA DA CIGARRA E A FORMIGA! " x="20" y="450" font-size="20"/>
     <agent text="A formiga trablhava todos os dias, prourando alimento para guardar e passar o inverno tranquila." x="10" y="400" font-size="12" />
-    <agent text="enquanto a fomiga trabalhava a cigarra ficava por aí, cantando, despre"    
+
+        
+    <agent text="enquanto a fomiga trabalhava a cigarra ficava por aí, cantando, despreocupada." x="20" y="500"    
     
 
      <agent img="chão1.png" x="0" y="0" width="100" height="100"/>   
