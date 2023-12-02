@@ -26,7 +26,7 @@
       <agent img="pularcenario.png" x="400" y="100" width="50" height="90" on-touch="_NEXT_PAGE"/> 
          </page>
      <page background="bg_neve.png">
-     <agent img="arvores neves.png" x="20" y="400" width="100" height="200"/>    
+     <agent img="" x="20" y="400" width="100" height="200"/>    
          
          
     
