@@ -2,8 +2,9 @@
 	<page background="bg.png">
     <agent text="SEJA BEM VINDO A HISTORIA DA CIGARRA E A FORMIGA! " x="20" y="450" font-size="20"/>
           <agent 
-              text="Era uma vez uma formiga, que passava o dia e a noite recplhendo alimentos e fazendo sua casa, preparando-se para o inverno." 
+              text="Era uma vez uma formiga, que passava o dia e a noite recolhendo alimentos e fazendo sua casa, preparando-se para o inverno." 
             x="10" y="400" on-touch="story2">
+            <stpry
              
     <agent img="formiga.png" x="0" y="0" width="100" height="100" />
         
