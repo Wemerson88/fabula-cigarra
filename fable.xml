@@ -7,10 +7,10 @@
      <agent img="chaomeio.png" x="100" y="0" width="100" height="100"/>
      <agent img="chaomeio.png" x="200" y="0" width="100" height="100"/>  
      <agent img="chaomeio.png" x="300" y="0" width="100" height="100"/>  
-        
-
+     <agent img="chão2.png".png" x="400" y="0" width="100" height="100"/>  
      <agent img="formiga.png" x="0" y="40" width="100"  height="200" />
      <agent img="cigarra.png" x="300" y="90" width="100" height="200" />
+         
     
    
 
