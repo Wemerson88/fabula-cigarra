@@ -1,8 +1,9 @@
 <fable>
 	<page background="bg.png">
     <agent text="SEJA BEM VINDO A HISTORIA DA CIGARRA E A FORMIGA! " x="20" y="450" font-size="20"/>
-    <agent text="A formiga trablhava todos os dias, prourando alimneto para guardar e passar o inverno tranquila." x="10" y="400" />
-    <agent img="cigarra.png" x="10" y ="200" width="100" height="100"
+    <agent text="A formiga trablhava todos os dias, prourando alimneto para guardar e passar o inverno tranquila." x="10" y="400" font-size="12" />
+
+    
                    
         
             
