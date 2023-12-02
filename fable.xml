@@ -1,7 +1,7 @@
 <fable>
 	<page background="bg.png">
     <agent text="SEJA BEM VINDO A HISTORIA DA CIGARRA E A FORMIGA! " x="20" y="450" font-size="20"/>
-        
+        <agent text="Era "
   
     
   </page>
