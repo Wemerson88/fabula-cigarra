@@ -26,7 +26,8 @@
       <agent img="pularcenario.png" x="400" y="100" width="50" height="90" on-touch="_NEXT_PAGE"/> 
      </page>
      <page background="salão festa.jpg">
-     <agent text="Enquanto a formiga trabalhava a cigarra curtia."
+     <agent text="Enquanto a formiga trabalhava a cigarra curtia." x="0" y="300" font-size="12"/>
+         
          
     
         
