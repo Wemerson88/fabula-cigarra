@@ -35,7 +35,7 @@
      <agent img="chãomeio.png" x="200" y="0" width="100" height="100"/>  
      <agent img="chãomeio.png".png" x="300" y="0" width="100" height="100"/>  
      <agent img="chãonoite2.png".png".png" x="400" y="0" width="100" height="100"/>    
-      <agent img="porta_casa.png" x   
+      <agent img="porta_casa.png" x="400" y="100" width="50" height="90" on-touch="_NEXT_PAGE"/>   
     
         
           
