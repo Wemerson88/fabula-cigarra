@@ -38,7 +38,7 @@
       <agent img="porta_casa.png" x="400" y="100" width="80" height="150" on-touch="_NEXT_PAGE"/> 
      </page>
     <page background="interna casa.png">
-    <agent img="chão casa.png" x="0" y="0"     
+    <agent img="chão casa.png" x="0" y="0" width="100" height="200"/    
     
         
           
