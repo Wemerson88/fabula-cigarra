@@ -38,7 +38,7 @@
       <agent img="porta_casa.png" x="400" y="100" width="80" height="150" on-touch="_NEXT_PAGE"/> 
      </page>
     <page background="interna casa.png">
-    <agent img="casa_formiga.png" x="0" y="0" width="600" height="600"/>    
+    <agent img="casa_formiga.png" x="0" y="0" width="100" height="100"/>    
     
         
           
