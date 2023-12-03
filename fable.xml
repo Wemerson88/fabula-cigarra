@@ -44,7 +44,7 @@
     <agent img="CAixa.png" x="300" y="0" width="100" height="100"/>      
     <agent img="CAixa.png" x="400" y="0" width="100" height="100"/> 
     <agent text="Ao chegar na casa da formiga, a cigarra implora para ficar lá, pois não tem para onde ir poder comer da sua comida, pois está com muita fome." x="40" y="400" font-size="12" />
-    <agent text="Mas a fomriga fala que não pde ajudar, que sua comida está na quanridade contada, e que se preparou o verão inteiro, diferente da ciga." x="20" y="400" font-size="12" />
+    <agent text="Mas a fomriga fala que não pde ajudar, que sua comida está na quanridade contada, e que se preparou o verão inteiro, diferente da cigarra que ficou por aí sem preocupção." x="20" y="350" font-size="12" />
     <agent img="formiga.png" x="0" y="50" width="100"  height="200" />
     <agent img="cigarra.png" x="250" y="80" width="100" height="200" />    
         
