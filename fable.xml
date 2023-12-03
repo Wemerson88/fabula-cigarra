@@ -50,18 +50,7 @@
      <agent img="pularcenario.png" x="400" y="100" width="50" height="90" on-touch="_NEXT_PAGE"/>  
     </page> 
     <page background="fim.png">
-    <agent text="Trabalhemos para nos livrarmos do suplício da cigarra, e não aturarmos a zombaria das formiga" x="20" y="450"  font-size   
-        
-        
-        
-
-     
-         
-         
-     
-
-            
+    <agent text="Trabalhemos para nos livrarmos do suplício da cigarra, e não aturarmos a zombaria das formiga" x="20" y="450"  font-size="20" />  
   
-    
   </page>
 </fable>
