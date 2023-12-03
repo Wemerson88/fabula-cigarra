@@ -43,7 +43,8 @@
     <agent img="CAixa.png" x="200" y="0" width="100" height="100"/>  
     <agent img="CAixa.png" x="300" y="0" width="100" height="100"/>      
     <agent img="CAixa.png" x="400" y="0" width="100" height="100"/> 
-    <agent text="Ao cheagar na casa d formiga, a cigarra implora para ficar lá, pois não tem para onde ir poder comer da sua comida, pois está com muita fome." 
+    <agent text="Ao chegar na casa da formiga, a cigarra implora para ficar lá, pois não tem para onde ir poder comer da sua comida, pois está com muita fome." x="10" y="300" font-size="12" />
+        
         
 
      
