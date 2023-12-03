@@ -30,11 +30,11 @@
       <agent text="Então ela descide procurar ajuda para a formiga.Então decide ir vistar ela" x="10" y="300" font-size="12"/>    
      <agent img="boneco de neve.png"png" x="150" y="80" width="100" height="200"/> 
     <agent img="cigarra.png" x="20" y="90" width="100" height="200"/>  
-     <agent img="chao neve 3.png".png" x="0" y="0" width="100" height="100"/>   
-     <agent img="cha.png" x="100" y="0" width="100" height="100"/>
-     <agent img="chãomeio.png" x="200" y="0" width="100" height="100"/>  
-     <agent img="chãomeio.png".png" x="300" y="0" width="100" height="100"/>  
-     <agent img="chãonoite2.png".png".png" x="400" y="0" width="100" height="100"/>    
+     <agent img="chao .png".png" x="0" y="0" width="100" height="100"/>   
+     <agent img="meio neve.png"png" x="100" y="0" width="100" height="100"/>
+     <agent img="meio neve.png".png" x="200" y="0" width="100" height="100"/>  
+     <agent img="meio neve.png"png".png" x="300" y="0" width="100" height="100"/>  
+     <agent img="chao neve 3.png".png".png".png" x="400" y="0" width="100" height="100"/>    
       <agent img="porta_casa.png" x="400" y="100" width="80" height="150" on-touch="_NEXT_PAGE"/> 
      </page>
     <page background="casa_formiga.png">
