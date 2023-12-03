@@ -47,6 +47,8 @@
     <agent text="Mas a fomriga fala que não pde ajudar, que sua comida está na quanridade contada, e que se preparou o verão inteiro, diferente da cigarra que ficou por aí sem preocupção. E disse para a cigarra cantar e dançar lá fora" x="20" y="350" font-size="12" />
     <agent img="formiga.png" x="0" y="50" width="100"  height="200" />
     <agent img="cigarra.png" x="250" y="80" width="100" height="200" />    
+     <agent img="pularcenario.png" x="400" y="100" width="50" height="90" on-touch="_NEXT_PAGE"/>    
+        
         
         
 
