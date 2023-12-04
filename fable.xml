@@ -26,7 +26,7 @@
       <agent img="pularcenario.png" x="400" y="100" width="50" height="90" on-touch="_NEXT_PAGE"/> 
          </page>
      <page background="bg_neve.png">
-     <agent text="Aí veio o inverno!. A cigarra ficou muito preocupada, pois não tinha onde ficar e estava com muito frio." x="10" y="400" font-size="12"/>
+     <agent text="Meses se passaram e veio o inverno!. A cigarra ficou muito preocupada, pois não tinha onde ficar e estava com muito frio." x="10" y="400" font-size="12"/>
       <agent text="Então ela descide procurar ajuda para a formiga.Então decide ir vistar ela" x="10" y="300" font-size="12"/>    
      <agent img="boneco de neve.png"png" x="150" y="80" width="100" height="200"/> 
     <agent img="cigarra.png" x="20" y="90" width="100" height="200"/>  
