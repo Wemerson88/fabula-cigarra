@@ -16,7 +16,7 @@
      <agent img="pularcenario.png" x="400" y="100" width="50" height="90" on-touch="_NEXT_PAGE"/>
          </page>
     <page background="noite.png">
-    <agent text="Enqunato a cigarra se divertia, a formiga passava noites e noites, procurando grãos e alimentos para o inverno."  x="20" y="400" font-size="12"/>
+    <agent text="Enqunato a cigarra se divertia, a formiga passava noites e noites, procurando grãos e alimentos para o inverno." color="royalblue" x="20" y="400" font-size="12"/>
     <agent img="formiga.png" x="10" y="60" width="100" height="200"/> 
      <agent img="chão noite.png" x="0" y="0" width="100" height="100"/>   
      <agent img="chãomeio.png" x="100" y="0" width="100" height="100"/>
